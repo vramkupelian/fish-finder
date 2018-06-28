@@ -13,7 +13,7 @@
 //     "<br>Longitude: " + position.coords.longitude; 
 // }
 
-$(document).on('click','.findButton', function(){
-    getLocation();
-    showPosition();
-});
+// $(document).on('click','.findButton', function(){
+//     getLocation();
+//     showPosition();
+// });
